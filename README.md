@@ -4,6 +4,7 @@
 - 😘 我热爱前端，喜欢原生开发
 - 🌱 正在学习前端，也在准备学习UI/UX...
 - 📫 邮箱联系 Danoday@Foxmail.com
+- 📺 我的B站主页 [给我点赞！！！](https://space.bilibili.com/111616585?spm_id_from=333.788.0.0)
 
 ---
 #### 我的技术栈
