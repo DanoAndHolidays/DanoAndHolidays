@@ -4,7 +4,7 @@
 
 # Hi！ 我是 Dano🦊 一个前端学习者
 
-![](https://img.shields.io/badge/Sass-953357) ![](https://img.shields.io/badge/Echarts-A42240) ![](https://img.shields.io/badge/HTML5-E65100) ![](https://img.shields.io/badge/Vite-FFAB00) ![](https://img.shields.io/badge/JSes6-FFCA28) ![](https://img.shields.io/badge/Pinia-fFD551) ![](https://img.shields.io/badge/GSAP-72F76F) ![](https://img.shields.io/badge/Vue3-41B883) ![](https://img.shields.io/badge/TailwindCSS-3DBFF8) ![](https://img.shields.io/badge/ElementUI-44A3FF) ![](https://img.shields.io/badge/CSS3-7E57C2)
+![](https://img.shields.io/badge/Sass-953357) ![](https://img.shields.io/badge/Echarts-A42240) ![](https://img.shields.io/badge/HTML5-E65100) ![](https://img.shields.io/badge/Vite-FFAB00) ![](https://img.shields.io/badge/ES6-FFCA28) ![](https://img.shields.io/badge/Pinia-fFD551) ![](https://img.shields.io/badge/GSAP-72F76F) ![](https://img.shields.io/badge/Vue3-41B883) ![](https://img.shields.io/badge/TailwindCSS-3DBFF8) ![](https://img.shields.io/badge/ElementPlus-44A3FF) ![](https://img.shields.io/badge/TS-0288D1) ![](https://img.shields.io/badge/CSS3-7E57C2)
 
 </div>
 
